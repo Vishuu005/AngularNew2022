@@ -1,0 +1,2 @@
+# AngularNew2022
+Angular is an open-source platform that allows web-based and mobile-based application development. React is also an open-sourced JavaScript library that focuses on User Interface(UI) development. Angular uses TypeScript, and React uses JavaScript as their programming language. Fundamentals of Cloud Computing: JavaScript ... Java: Node.js for Beginners Blockchain Technology: React for Beginners
